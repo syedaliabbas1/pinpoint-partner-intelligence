@@ -2,6 +2,141 @@
   "events": [],
   "runs": [
     {
+      "id": 49,
+      "firm_id": "weil",
+      "started_at": "2026-11-21T14:40:34+00:00",
+      "finished_at": "2026-11-21T14:41:14+00:00",
+      "status": "partial",
+      "message": "14 accepted / 24 profiles fetched; 24 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.weil.com/people/mergers-and-acquisitions | Not accepted (scope/title/template needs review): https://www.weil.com/people/retail-and-consumer-goods | Not accepted (scope/title/template needs review): https://www.weil.com/people/secondary-transactions-and-sponsor-solutions | Not accepted (scope/title/template needs review): https://www.weil.com/people/infrastructure | Not accepted (scope/title/template needs review): https://www.weil.com/people/banking-and-finance | Not accepted (scope/title/template needs review): https://www.weil.com/people/spacs | Not accepted (scope/title/template needs review): https://www.weil.com/people/corey-chivers | Not accepted (scope/title/template needs review): https://www.weil.com/people/ian-hamilton",
+      "count": 14
+    },
+    {
+      "id": 48,
+      "firm_id": "king",
+      "started_at": "2026-11-21T14:40:06+00:00",
+      "finished_at": "2026-11-21T14:40:34+00:00",
+      "status": "partial",
+      "message": "15 accepted / 17 profiles fetched; 17 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.kslaw.com/People/Michelle-Huang | Not accepted (scope/title/template needs review): https://www.kslaw.com/people/victor-dumesnil",
+      "count": 15
+    },
+    {
+      "id": 47,
+      "firm_id": "skadden",
+      "started_at": "2026-11-21T14:39:50+00:00",
+      "finished_at": "2026-11-21T14:40:06+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 46,
+      "firm_id": "paulhastings",
+      "started_at": "2026-11-21T14:39:50+00:00",
+      "finished_at": "2026-11-21T14:39:50+00:00",
+      "status": "blocked",
+      "message": "robots.txt HTTP 429; stopped without fetching profiles",
+      "count": 0
+    },
+    {
+      "id": 45,
+      "firm_id": "sullivan",
+      "started_at": "2026-11-21T14:39:26+00:00",
+      "finished_at": "2026-11-21T14:39:50+00:00",
+      "status": "partial",
+      "message": "14 accepted / 14 profiles fetched; 14 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. ",
+      "count": 14
+    },
+    {
+      "id": 44,
+      "firm_id": "milbank",
+      "started_at": "2026-11-21T14:38:33+00:00",
+      "finished_at": "2026-11-21T14:39:26+00:00",
+      "status": "partial",
+      "message": "16 accepted / 32 profiles fetched; 32 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/patrick-s-campbell.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/index.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/alexander-anderson.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/alexander-k-borisoff.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/austin-bramwell-1.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/chris-s-bloom.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/claire-bridcut.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/drew-batkin.html",
+      "count": 16
+    },
+    {
+      "id": 43,
+      "firm_id": "cravath",
+      "started_at": "2026-11-21T14:38:25+00:00",
+      "finished_at": "2026-11-21T14:38:33+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 5 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Directory: Path disallowed by robots.txt | Path disallowed by robots.txt",
+      "count": 4
+    },
+    {
+      "id": 42,
+      "firm_id": "latham",
+      "started_at": "2026-11-21T14:37:11+00:00",
+      "finished_at": "2026-11-21T14:38:25+00:00",
+      "status": "partial",
+      "message": "25 accepted / 25 profiles fetched; 25 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. ",
+      "count": 25
+    },
+    {
+      "id": 41,
+      "firm_id": "gibson",
+      "started_at": "2026-11-21T14:36:16+00:00",
+      "finished_at": "2026-11-21T14:37:11+00:00",
+      "status": "partial",
+      "message": "22 accepted / 32 profiles fetched; 32 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/abdel-baky-mahmoud/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/abercromby-daniel/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/abram-carolyn-j-d/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/adams-aaron-f/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/ahmed-amer-s/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/appleby-ryan-s/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/aprile-cassie-therese/ | Not accepted (scope/title/template needs review): https://www.gibsondunn.com/lawyer/arash-dora-r/",
+      "count": 22
+    },
+    {
+      "id": 40,
+      "firm_id": "paulweiss",
+      "started_at": "2026-11-21T14:35:46+00:00",
+      "finished_at": "2026-11-21T14:36:16+00:00",
+      "status": "partial",
+      "message": "16 accepted / 17 profiles fetched; 17 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.paulweiss.com/professionals/partners-and-counsel/antony-freeman",
+      "count": 16
+    },
+    {
+      "id": 39,
+      "firm_id": "simpson",
+      "started_at": "2026-11-21T14:35:16+00:00",
+      "finished_at": "2026-11-21T14:35:46+00:00",
+      "status": "partial",
+      "message": "10 accepted / 11 profiles fetched; 21 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. HTTP 429 for https://www.stblaw.com/our-team/partners/marni-j-lerner/; no retry or access bypass",
+      "count": 10
+    },
+    {
+      "id": 38,
+      "firm_id": "davispolk",
+      "started_at": "2026-11-21T14:35:03+00:00",
+      "finished_at": "2026-11-21T14:35:16+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. Directory: HTTP 404 for https://www.davispolk.com/people; no retry or access bypass",
+      "count": 7
+    },
+    {
+      "id": 37,
+      "firm_id": "quinn",
+      "started_at": "2026-11-21T14:33:23+00:00",
+      "finished_at": "2026-11-21T14:35:03+00:00",
+      "status": "partial",
+      "message": "8 accepted / 62 profiles fetched; 62 known candidates; bounded to 100. robots.txt HTTP 404: no policy published. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/anderson-k-mckenzie | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/barrett-jennifer-j | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/abensohn-adam-m/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/abraham-habib-emmanuel/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acevedo-jonathan/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acharya-deepa/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acuner-melis/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/adams-kevin/",
+      "count": 8
+    },
+    {
+      "id": 36,
+      "firm_id": "wachtell",
+      "started_at": "2026-11-21T14:33:21+00:00",
+      "finished_at": "2026-11-21T14:33:23+00:00",
+      "status": "blocked",
+      "message": "HTTP 403 for https://www.wlrk.com/attorneys/; no retry or access bypass",
+      "count": 0
+    },
+    {
+      "id": 35,
+      "firm_id": "kirkland",
+      "started_at": "2026-11-21T14:32:46+00:00",
+      "finished_at": "2026-11-21T14:33:21+00:00",
+      "status": "partial",
+      "message": "21 accepted / 21 profiles fetched; 21 known candidates; bounded to 100. robots.txt checked. Global coverage unverified. ",
+      "count": 21
+    },
+    {
       "id": 34,
       "firm_id": "king",
       "started_at": "2026-11-21T14:23:18+00:00",

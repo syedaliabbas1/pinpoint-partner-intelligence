@@ -2,7 +2,7 @@
 
 A research desk for legal recruiters preparing corporate and M&A partner conversations. Search by name, firm, captured office or practice evidence; open a source-backed brief; export a shortlist; and review what changed between observations.
 
-**This is a working local MVP with partial data, not a complete market database.** The release baseline covers **142 profiles at 11 of the 15 specified firms**, including **8 M&A litigation profiles explicitly labelled adjacent** (134 core corporate/M&A profiles). Four firms returned access blocks. No firm's worldwide practice roster has been verified as complete. Counts and access details are in [data/coverage.json](data/coverage.json) and the application's coverage screen; those files are the authority if a later refresh changes the numbers.
+**This is a working local MVP with partial data, not a complete market database.** The release baseline covers **168 profiles at 13 of the 15 specified firms**, including **8 M&A litigation profiles explicitly labelled adjacent** (160 core corporate/M&A profiles). Two firms remain access-blocked; the cloud runner successfully accessed Davis Polk and Gibson Dunn under their published robots policies. No firm's worldwide practice roster has been verified as complete. Counts and access details are in [data/coverage.json](data/coverage.json) and the application's coverage screen; those files are the authority if a later refresh changes the numbers.
 
 The supplied assessment PDF is the specification. The job specification and supplied 12-month roadmap were also read. `Codex_Prompt_Pinpoint_CTO_Assessment.md` was not present: after a path request, the user pointed back to the assessment PDF, so implementation proceeded from that primary brief. The PDF says submission was due **19 November 2026, 17:00 UK time**; this work session is dated 21 November. Confirm submission arrangements before sending it.
 
@@ -51,10 +51,10 @@ Snapshot from the build session on **21 November 2026**. “Captured” means an
 | Kirkland & Ellis | 21 | Partial official-profile sample |
 | Wachtell, Lipton, Rosen & Katz | 0 | Directory returned HTTP 403; stopped |
 | Quinn Emanuel Urquhart & Sullivan | 8 | Explicit M&A litigation only; labelled adjacent, not transactional M&A |
-| Davis Polk & Wardwell | 0 | Collector's robots request returned HTTP 403; stopped |
+| Davis Polk & Wardwell | 7 | Local robots request was blocked; cloud retrieval permitted and reviewed |
 | Simpson Thacher & Bartlett | 10 | Partial sample; expansion stopped on HTTP 429 |
 | Paul, Weiss, Rifkind, Wharton & Garrison | 15 | Partial official-profile sample |
-| Gibson Dunn | 0 | Collector's robots request returned HTTP 403; stopped |
+| Gibson Dunn | 19 | Local robots request was blocked; cloud retrieval permitted and reviewed |
 | Latham & Watkins | 25 | Partial official-profile sample |
 | Cravath, Swaine & Moore | 4 | Known profiles allowed; actual directory path disallowed by robots |
 | Milbank | 16 | Corporate/M&A structured-practice evidence; tax-only/transport profiles excluded |
@@ -63,7 +63,7 @@ Snapshot from the build session on **21 November 2026**. “Captured” means an
 | Skadden, Arps, Slate, Meagher & Flom | 7 | Partial official-profile sample |
 | King & Spalding | 11 | Partial official-profile sample |
 | Weil, Gotshal & Manges | 11 | Partial official-profile sample |
-| **Total** | **142** | **11 firms with captured records; 0 firms certified complete** |
+| **Total** | **168** | **13 firms with captured records; 0 firms certified complete** |
 
 Web search and the configured Firecrawl research CLI were used to discover candidate URLs. Finalization also enumerated a bounded set of official practice pages, adding 88 accepted profiles after scope review. See [docs/DATA_REVIEW.md](docs/DATA_REVIEW.md). **Search snippets were not imported as verified profiles.** The product's refresh runs directly against allowed official pages and needs no search-service credentials. Public search rankings and static directory pages are not exhaustive; the remaining URLs have to be discovered and verified through firm-specific practice filters, pagination, or authorised exports. A zero is an access/collection limitation, not a claim that the firm has no relevant partners.
 
@@ -119,9 +119,9 @@ The collector:
 - Retains an earlier office when a same-version refresh cannot extract a new one, labels it **last known**, and carries its own evidence timestamp/hash. It does not turn template drift into an office-removal alert.
 - Flags observed 404/410 profile failures for review without deleting anyone. No absence in an incomplete directory is treated as departure. A profile that no longer passes title/practice extraction is retained with its earlier observation timestamp and a run-level review message.
 
-Repeated identical observations update last-seen times without adding duplicates or change events. `first_seen` survives export/import. The UI never labels a new observation as a confirmed joiner or leaver. The initial 54-record sample had a second live pass; finalization added 88 independently fetched and scope-reviewed records. The final 142-record roster was not exhaustively revisited; see [docs/VERIFICATION.md](docs/VERIFICATION.md) for the actual result.
+Repeated identical observations update last-seen times without adding duplicates or change events. `first_seen` survives export/import. The UI never labels a new observation as a confirmed joiner or leaver. The initial 54-record sample had a second live pass; finalization added 88 independently fetched and scope-reviewed records. A successful cloud run then supplied 33 additional candidates; 26 were retained after scope review and seven excluded. The final 168-record roster was not exhaustively revisited; see [docs/VERIFICATION.md](docs/VERIFICATION.md) for the actual result.
 
-**Scheduling:** `.github/workflows/refresh.yml` runs Mondays at **06:23 UTC** and supports manual dispatch. It restores JSON state from the previous successful run's artifact, runs offline tests, refreshes with a budget of 100 per firm, validates and uploads the next state with 90-day retention. The workflow has read-only repository permissions; it does not commit, open PRs or publish data automatically. Download and inspect the artifact to update your local dataset. If no previous artifact exists or retention makes it unavailable, the workflow visibly falls back to the committed baseline, so comparisons may cover a longer interval. GitHub's scheduler is best-effort, not an exact-time guarantee. This workflow is supplied but has **not been executed on GitHub** in this session.
+**Scheduling:** `.github/workflows/refresh.yml` runs Mondays at **06:23 UTC** and supports manual dispatch. It restores JSON state from the previous successful run's artifact, runs offline tests, refreshes with a budget of 100 per firm, validates and uploads the next state with 90-day retention. The workflow has read-only repository permissions; it does not commit, open PRs or publish data automatically. Download and inspect the artifact to update your local dataset. If no previous artifact exists or retention makes it unavailable, the workflow visibly falls back to the committed baseline, so comparisons may cover a longer interval. GitHub's scheduler is best-effort, not an exact-time guarantee. A [manual cloud run completed successfully](https://github.com/syedaliabbas1/pinpoint-partner-intelligence/actions/runs/44914457810), and its saved artifact was downloaded and validated. Raw refresh output still needs scope review before inclusion in the curated release.
 
 For an unattended local installation, run the same CLI command weekly using Task Scheduler or cron, pointing it at the same database. An example cron entry after setting the actual absolute checkout path:
 
@@ -146,7 +146,7 @@ python scripts/smoke.py
 
 The automated tests are offline and use temporary databases/HTTP transports. They cover baseline/idempotent refresh, real field changes, Unicode/literal filters, rollback, failed-source retention, redirects, robot policies, snapshot checksums, field freshness, CSV safety, HTML escaping, clean seed/history restoration and HTTP routes. `validate` checks shape and provenance metadata; it does not claim to reverify the remote facts. No coverage percentage is asserted.
 
-The latest commands/results, fresh-start checks and review fixes are recorded in [docs/VERIFICATION.md](docs/VERIFICATION.md). There is one upstream Starlette/AnyIO deprecation warning under the locked environment; it is reported, not suppressed. The supplied GitHub CI runs Python 3.11 and 3.12, but only the local Python environment has been executed here.
+The latest commands/results, fresh-start checks and review fixes are recorded in [docs/VERIFICATION.md](docs/VERIFICATION.md). There is one upstream Starlette/AnyIO deprecation warning under the locked environment; it is reported, not suppressed. GitHub Linux CI has passed on Python 3.11 and 3.12. Local Windows testing results are recorded in the verification report; see the verification report for actual run links and results.
 
 **Browser verification:** local HTTP and TestClient checks are automated. Native Chrome later became available: the coverage page rendered correctly at a narrow window width, and the directory exposed labelled search/filter controls and semantic tables. Further automated clicks were interrupted by active user input; the shared window was left alone when it switched to unrelated content. Full keyboard, mobile-device and print-preview checks remain manual. The static UI audit is separate evidence, not a browser certification.
 

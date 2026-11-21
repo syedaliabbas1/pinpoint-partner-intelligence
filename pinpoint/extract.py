@@ -181,6 +181,15 @@ def extract_profile(firm_id, url, html, observed_at):
             for x in ["/practices/", "/practice-areas/", "/practice/", "/capabilities/"]
         )
     )
+    if firm_id != "quinn" and (
+        re.match(
+            r"^(?:Tax|Litigation|Securities Litigation|Appellate and Constitutional Law|Administrative Law)\b",
+            practice_labels,
+            re.I,
+        )
+        or re.search(r"is a partner in the White Collar Defense", text[:3500], re.I)
+    ):
+        return None
     scope_text = practice_labels + " " + text[:3500]
     ma_pattern = r"\bmergers?\s*(?:&|and)\s*acquisitions?\b(?!\s+(?:litigation|disputes))|\bM&A\b(?!\s+(?:litigation|disputes))"
     corp_pattern = r"\bcorporate(?:\s+(?:department|group|practice|partner|finance|governance)|/M&A)\b|\bPartner\s*,?\s*Corporate\b"
@@ -250,7 +259,7 @@ def extract_profile(firm_id, url, html, observed_at):
         office_evidence=clean(location_text)[:700] if offices else "",
         content_hash=hashlib.sha256(html.encode()).hexdigest(),
         observed_at=observed_at,
-        extraction_version="2",
+        extraction_version="3",
         verification="official_profile",
         scope_note="Practice evidence; review practice fit before outreach",
     )

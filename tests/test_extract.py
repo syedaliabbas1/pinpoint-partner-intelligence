@@ -196,3 +196,40 @@ def test_corporate_tax_label_does_not_mean_corporate_partner():
         )
         is None
     )
+
+
+@pytest.mark.parametrize(
+    "primary",
+    [
+        "Tax",
+        "Litigation Antitrust",
+        "Securities Litigation",
+        "Appellate and Constitutional Law",
+        "Administrative Law",
+    ],
+)
+def test_primary_nontransactional_practice_is_not_promoted_by_ma_mentions(primary):
+    source = html(
+        "Jane Example advises on corporate governance disputes and mergers and acquisitions."
+    ).replace(
+        "</main>",
+        f'<a href="/practices/primary">{primary}</a><a href="/practices/ma">Mergers and Acquisitions</a></main>',
+    )
+    assert (
+        extract_profile(
+            "gibson", "https://www.gibsondunn.com/lawyer/jane-example/", source, "2026-11-21"
+        )
+        is None
+    )
+
+
+def test_primary_white_collar_bio_is_not_promoted_by_ma_service_link():
+    source = html(
+        "Jane Example is a partner in the White Collar Defense and Investigations Practice Group."
+    ).replace("</main>", '<a href="/practice/ma">Mergers and Acquisitions</a></main>')
+    assert (
+        extract_profile(
+            "gibson", "https://www.gibsondunn.com/lawyer/jane-example/", source, "2026-11-21"
+        )
+        is None
+    )

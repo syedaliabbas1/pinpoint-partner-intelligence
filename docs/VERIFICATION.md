@@ -37,7 +37,7 @@ See the latest test output if subsequently changing source or data. No line-cove
 
 ## Real data observations
 
-Initial build baseline: **54 official-source profiles, 11 firms represented, 3 adjacent M&A litigation profiles, 0 firms certified globally complete**. The finalized baseline is142, described below. The accepted sample was revisited in a second live pass. Its lack of changes over a short interval is an idempotence observation, not evidence that the market has not moved.
+Initial build baseline: **54 official-source profiles, 11 firms represented, 3 adjacent M&A litigation profiles, 0 firms certified globally complete**. The current curated baseline is 168, described below. The accepted sample was revisited in a second live pass. Its lack of changes over a short interval is an idempotence observation, not evidence that the market has not moved.
 
 Wachtell's directory returned 403; Davis Polk and Gibson Dunn's collector robots requests returned 403; Paul Hastings's robots request returned 429. Those four were not retried through other transports or identities. Their zero counts remain visible. Initial reconnaissance and collector HTTP responses sometimes differed; collector decisions follow the actual response to its own request.
 
@@ -62,7 +62,7 @@ Fresh-source verification found that the configured pytest temporary directory a
 ## Verification not completed
 
 - **Full browser QA:** initial browser access was unavailable. Finalization obtained limited native Chrome evidence, described below; keyboard/select interaction, print preview, mobile-device testing and accessibility certification remain unverified. Shared-window user activity was respected.
-- **GitHub Actions:** test and weekly refresh workflows are supplied but were not run on GitHub. Validate their first actual run after publishing. Python 3.12 and Linux are configured, not locally executed.
+- **GitHub Actions:** the initial build did not execute cloud workflows. Finalization published the private source, and Linux CI succeeded on Python 3.11 and 3.12. The manual refresh run and its artifact are recorded below after completion.
 - **Complete field or roster accuracy:** no exhaustive human-labelled evaluation set, total practice denominator, all-office crawl or independent manual confirmation of every record was performed. `validate` checks metadata and allowed source paths, not current remote truth.
 - **Production operation:** no external hosting, authentication, live alert delivery, vendor permission programme or scheduled remote job has been activated.
 
@@ -70,7 +70,7 @@ This is a verified local MVP with documented coverage limits, not a claim of ful
 
 ## Finalization verification
 
-The final reviewed baseline contains **142 official-source profiles across 11 firms: 134 core corporate/M&A and 8 explicitly adjacent M&A litigation**. Added 88 records via public web/Firecrawl discovery and permitted official practice pages. All current snapshot hashes were checked before promotion. A new Simpson 429 caused collection to stop; the original four blocked firms were not retried. See DATA_REVIEW.md for scope and exclusions.
+The first finalization review baseline contained **142 official-source profiles across 11 firms: 134 core corporate/M&A and 8 explicitly adjacent M&A litigation**. Added 88 records via public web/Firecrawl discovery and permitted official practice pages. All current snapshot hashes were checked before promotion. A new Simpson 429 caused collection to stop; the original four blocked firms were not retried. See DATA_REVIEW.md for scope and exclusions.
 
 Native Chrome later exposed the local application. The coverage page was visually inspected in a narrow window and the directory accessibility tree exposed labelled filters and semantic tables. Input automation was interrupted by active user interaction; the shared Chrome window was left alone when it switched away from Pinpoint. This is limited browser evidence, not a completed keyboard/mobile/print matrix.
 
@@ -80,7 +80,19 @@ Independent final review reported no Critical/Important issue. Its two minor ali
 
 ### Executed final local checks
 
-- Full suite: **74 passed, 1 skipped, 1 upstream warning** on Windows/Python3.11. The skipped test requires privileged Windows symlink creation.
-- Ruff checks and format checks passed for18Pythonfiles; portable seed validation passed.
-- Actual HTTP smoke checked the directory, coverage, changes, health/API, local assets and **all142detailpages**, plus no-results, CSV,422and404states.
+- Full suite: **74 passed, 1 skipped, 1 upstream warning** on Windows/Python 3.11. The skipped test requires privileged Windows symlink creation.
+- Ruff checks and format checks passed for 18 Python files; portable seed validation passed.
+- Actual HTTP smoke checked the directory, coverage, changes, health/API, local assets and **all 142 detail pages**, plus no-results, CSV, 422 and 404 states.
 - Private repository created at https://github.com/syedaliabbas1/pinpoint-partner-intelligence; source publication and cloud run results are recorded after execution.
+
+### Published source CI
+
+[GitHub Tests run 44914416566](https://github.com/syedaliabbas1/pinpoint-partner-intelligence/actions/runs/44914416566) completed successfully on Linux for Python 3.11 and 3.12, including locked dependency installation, tests, Ruff, format, compile and seed validation. Both jobs tested source commit 5583ac07ff8d45bd863b61b4486818ba0e3eab23. The Windows archive extracted to a clean source-only directory also passed74 tests with1 privilege-basedskip, initialized its own database, and passed provenance validation.
+
+## Committed release scope and final checks
+
+The manual [cloud refresh](https://github.com/syedaliabbas1/pinpoint-partner-intelligence/actions/runs/44914457810) completed successfully and its 175-record JSON artifact was downloaded and provenance-validated. Review of its 33 additions accepted 26 and excluded 7 tax/litigation/public-law specialists. The committed curated baseline is **168 profiles across 13 firms: 160 corporate/M&A and 8 adjacent litigation**. Full worldwide coverage remains unverified.
+
+Extractor version 3 adds six reproducing scope regressions. Source excerpts/actual retrieval metadata support the 26 cloud additions; their raw HTML snapshots were not retained in the downloaded artifact, so no local byte-for-byte snapshot claim is made for those 26. Existing 142 snapshots matched their hashes.
+
+The final Windows suite passed **80 tests**, with 1 privileged-symlink test skipped and 1 upstream deprecation warning. Ruff check/format, compile and seed validation passed. The actual server smoke checked all 168 profile pages and directory/coverage/changes/API/static/CSV/error states. Cloud CI for the final code is checked separately after push; the previous 75-test Linux result above is historical. Full browser keyboard/print/mobile checks remain unverified.

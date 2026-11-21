@@ -349,6 +349,60 @@
     "office_content_hash": "198e11e2734d9edbcc6ddf7174d968dcb86b49e378edfca15e35cefbb8bf26a1"
   },
   {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/lanin-ari/",
+    "name": "Ari Lanin",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Century City"
+    ],
+    "summary": "Ari Lanin is a partner in Gibson Dunn’s Century City office and Co-Chair of the firm’s Private Equity Practice Group. He advises companies and private equity firms across a wide range of industries, focusing on public and private merger transactions, stock and asset sales, joint ventures and strategic partnerships, and public and private capital-raising transactions. Ari also advises public compan",
+    "evidence": "Ari Lanin Ari Lanin Partner alanin@gibsondunn.com T: +1 310.552.8581 Century City Lawyer vCard PDF Share Ari Lanin is a partner in Gibson Dunn’s Century City office and Co-Chair of the firm’s Private  | Profile practice labels: Private Equity Artificial Intelligence Capital Markets ESG: Risk, Litigation, and Reporting Executive Compensation and Employee Benefits Family Office Media, Entertainment, and Technology Mergers and Acquisitions Securit | Benefits Family Office Media, Entertainment, and Technology Mergers and Acquisitions Securities Regulation and Corporate Governance Ari Lanin Partner alanin@gibsondunn.com T: +1 310.552.8581 Century ",
+    "office_evidence": "alanin@gibsondunn.com T: +1 310.552.8581 Century City Lawyer vCard PDF Share",
+    "content_hash": "a71853844f800c847ebab66ab98774dc34978380605bf70cf04d971732881069",
+    "observed_at": "2026-11-21T14:36:29+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "b9707f38559236a31df3",
+    "first_seen": "2026-11-21T14:36:29+00:00",
+    "last_seen": "2026-11-21T14:36:29+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:29+00:00",
+    "office_content_hash": "a71853844f800c847ebab66ab98774dc34978380605bf70cf04d971732881069"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/albarran-armando/",
+    "name": "Armando Albarrán",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Madrid"
+    ],
+    "summary": "Armando Albarrán is a partner in the Madrid office of Gibson Dunn and a member of the Mergers & Acquisitions and Capital Markets practice groups.",
+    "evidence": "Armando Albarrán Armando Albarrán Partner aalbarran@gibsondunn.com T: +34 919 340 801 Madrid Lawyer vCard PDF Share Armando Albarrán is a partner in the Madrid office of Gibson Dunn and a member of th | Profile practice labels: Mergers and Acquisitions Capital Markets Private Equity | Mergers and Acquisitions Capital Markets Private Equity Armando Albarrán Partner aalbarran@gibsondunn.com T: +34 919 340 801 Madrid Lawyer vCard | uity transactions, securities offerings, restructurings and corporate governance issues. Armando has been involved in many landmark transactions with a Spanish element. His regular clients include cor",
+    "office_evidence": "aalbarran@gibsondunn.com T: +34 919 340 801 Madrid Lawyer vCard PDF Share",
+    "content_hash": "c5e0a6c87e80400c1bec3d2a4fd738ad23670b95b6f905237ab26b8c02ab9425",
+    "observed_at": "2026-11-21T14:36:56+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "24b9ed7f0680081e179f",
+    "first_seen": "2026-11-21T14:36:56+00:00",
+    "last_seen": "2026-11-21T14:36:56+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:56+00:00",
+    "office_content_hash": "c5e0a6c87e80400c1bec3d2a4fd738ad23670b95b6f905237ab26b8c02ab9425"
+  },
+  {
     "firm_id": "kirkland",
     "source_url": "https://www.kirkland.com/lawyers/h/hai-ben",
     "name": "Ben Hai",
@@ -783,6 +837,32 @@
     "office_content_hash": "ce463456008a287f5e9acd09ba025f922bc5e659e96821e94d9af55f01a00079"
   },
   {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/angel-daniel/",
+    "name": "Daniel Angel",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Daniel Angel is a partner in the New York office of Gibson Dunn. Daniel is Co-Chair of Gibson Dunn's Technology Transactions Practice Group and a member of its Strategic Sourcing and Commercial Transactions Practice Group. He is a transactional lawyer who has represented clients on technology-related transactions since 2003. Daniel has worked with a broad variety of clients ranging from market lea",
+    "evidence": "Daniel Angel Daniel Angel Partner dangel@gibsondunn.com T: +1 212.351.2329 New York Lawyer vCard PDF Share Daniel Angel is a partner in the New York office of Gibson Dunn. Daniel is Co-Chair of Gibson | Profile practice labels: Technology Transactions Artificial Intelligence Cleantech Consumer Products and Retail Emerging Companies / Venture Capital Intellectual Property Media, Entertainment, and Technology Mergers and Acquisitions Privacy, Cyb |  Intellectual Property Media, Entertainment, and Technology Mergers and Acquisitions Privacy, Cybersecurity, and Data Innovation Strategic Sourcing and Commercial Transactions Tech and Innovation Dan",
+    "office_evidence": "dangel@gibsondunn.com T: +1 212.351.2329 New York Lawyer vCard PDF Share",
+    "content_hash": "7f3bd2f8f95ceec32bb5cdeb2d13a70cd91440704bcdaccbb2a75f9193034b63",
+    "observed_at": "2026-11-21T14:37:02+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "4f3e0790f4fa1a543d39",
+    "first_seen": "2026-11-21T14:37:02+00:00",
+    "last_seen": "2026-11-21T14:37:02+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:37:02+00:00",
+    "office_content_hash": "7f3bd2f8f95ceec32bb5cdeb2d13a70cd91440704bcdaccbb2a75f9193034b63"
+  },
+  {
     "firm_id": "milbank",
     "source_url": "https://www.milbank.com/en/professionals/daniel-d-bartfeld.html",
     "name": "Daniel D. Bartfeld",
@@ -861,6 +941,33 @@
     "office_content_hash": "ee63bc9189b7c36700325320bae648c1c895c716fd48a1b3dd8cebfd8c20bf1c"
   },
   {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/alterbaum-daniel-s/",
+    "name": "Daniel S. Alterbaum",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Daniel Alterbaum is a partner in the Mergers and Acquisitions and Private Equity Practice Groups, where he represents buyers, sellers, and investors in a wide variety of transactions in the private equity, fintech, renewable energy, and infrastructure sectors. His experience includes leveraged buyouts, negotiated sales of private companies, carve-out sales and spinoffs of subsidiaries, and cross-b",
+    "evidence": "Daniel S. Alterbaum Daniel S. Alterbaum Partner dalterbaum@gibsondunn.com T: +1 212.351.4084 New York Lawyer vCard PDF Share Daniel Alterbaum is a partner in the Mergers and Acquisitions and Private E | Profile practice labels: Mergers and Acquisitions Cleantech Data Centers and Digital Infrastructure ESG: Risk, Litigation, and Reporting Emerging Companies / Venture Capital Energy and Infrastructure Family Office Infrastructure Investment Funds | Mergers and Acquisitions Cleantech Data Centers and Digital Infrastructure ESG: Risk, Litigation, and Reporting Emerging Companies / Venture Cap | enewables Private Equity Projects Securities Regulat",
+    "office_evidence": "dalterbaum@gibsondunn.com T: +1 212.351.4084 New York Lawyer vCard PDF Share",
+    "content_hash": "3aefeb59418a3dda6db8893e744f1c25f628c25fcf4862069c80309d98c8fc61",
+    "observed_at": "2026-11-21T14:37:00+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "bb3983f60bd53999012c",
+    "first_seen": "2026-11-21T14:37:00+00:00",
+    "last_seen": "2026-11-21T14:37:00+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:37:00+00:00",
+    "office_content_hash": "3aefeb59418a3dda6db8893e744f1c25f628c25fcf4862069c80309d98c8fc61"
+  },
+  {
     "firm_id": "latham",
     "source_url": "https://www.lw.com/en/people/daniel-splittgerber",
     "name": "Daniel Splittgerber",
@@ -886,6 +993,59 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:22:41+00:00",
     "office_content_hash": "b7bbd3e43fdee7ef371e5d2401bfe4f9a9e66d82288d905d1211d1203f8054cb"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/adamovic-darko/",
+    "name": "Darko Adamovic",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "Paris"
+    ],
+    "summary": "Darko Adamovic is a partner in the Paris office of Gibson Dunn where he heads the Energy & Infrastructure Practice Group .",
+    "evidence": "Darko Adamovic Darko Adamovic Partner dadamovic@gibsondunn.com T: +33 1 56 43 13 00 Paris Lawyer vCard PDF Share Darko Adamovic is a partner in the Paris office of Gibson Dunn where he heads the Energ | Profile practice labels: Projects Data Centers and Digital Infrastructure Energy Regulation and Litigation Energy and Infrastructure Finance Infrastructure Mergers and Acquisitions | Litigation Energy and Infrastructure Finance Infrastructure Mergers and Acquisitions Darko Adamovic Partner dadamovic@gibsondunn.com T: +33 1 56 43 13 00 Paris Lawyer vCard PDF Share Darko Adamovic is a p",
+    "office_evidence": "dadamovic@gibsondunn.com T: +33 1 56 43 13 00 Paris Lawyer vCard PDF Share",
+    "content_hash": "c2dd3de14f12f09ed29cf43277c9b897bbbb48d6460596f800b005934650a959",
+    "observed_at": "2026-11-21T14:36:47+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "a380fb6b0983637e0c1d",
+    "first_seen": "2026-11-21T14:36:47+00:00",
+    "last_seen": "2026-11-21T14:36:47+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:47+00:00",
+    "office_content_hash": "c2dd3de14f12f09ed29cf43277c9b897bbbb48d6460596f800b005934650a959"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/friedman-dennis-j/",
+    "name": "Dennis J. Friedman",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Dennis J. Friedman is a partner in the New York office of Gibson Dunn. He has led Gibson Dunn’s mergers and acquisitions practice for many years. He has also served on Gibson Dunn’s Executive Committee and its International Management Committee. He is a widely recognized corporate lawyer with extensive experience in the mergers and acquisitions, and corporate governance. In addition to his 40-plus",
+    "evidence": "Dennis J. Friedman Dennis J. Friedman Partner dfriedman@gibsondunn.com T: +1 212.351.3900 New York Lawyer vCard PDF Share Dennis J. Friedman is a partner in the New York office of Gibson Dunn. He has  | Profile practice labels: Mergers and Acquisitions Executive Compensation and Employee Benefits Family Office Financial Institutions Life Sciences Media, Entertainment, and Technology Real Estate Investment Trust (REIT) Securities Regulation and  | Mergers and Acquisitions Executive Compensation and Employee Benefits Family Office Financial Institutions Life Sciences Media, Entertainment, a | al Estate Investment Trust (REIT) Securities Regulat",
+    "office_evidence": "dfriedman@gibsondunn.com T: +1 212.351.3900 New York Lawyer vCard PDF Share",
+    "content_hash": "c55c0e0b65b70961e7cc5ff4fb8454ea909d635d2f610255d4129b91210a4a6d",
+    "observed_at": "2026-11-21T14:36:30+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "534a3488266d15b2d8ba",
+    "first_seen": "2026-11-21T14:36:30+00:00",
+    "last_seen": "2026-11-21T14:36:30+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:30+00:00",
+    "office_content_hash": "c55c0e0b65b70961e7cc5ff4fb8454ea909d635d2f610255d4129b91210a4a6d"
   },
   {
     "firm_id": "kirkland",
@@ -1160,6 +1320,32 @@
     "office_content_hash": "59d04b9f15a60f2e39fb8095a26f738fa078c8211888523cbed964ee20f37d70"
   },
   {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/evan-rosen",
+    "name": "Evan Rosen",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Diverse practice spanning M&A, joint ventures, spinoffs and governance. Represents private equity sponsors and portfolio companies in all aspects of their businesses.",
+    "evidence": "Evan Rosen Evan Rosen Lawyers Evan Rosen Partner Mergers & Acquisitions New York evan.rosen@davispolk.com +1 212 450 4505 Download address card Print this page Diverse practice spanning M&A, joint ven |  Lawyers Evan Rosen Lawyers Evan Rosen Partner Mergers & Acquisitions New York evan.rosen@davispolk.com +1 212 450 4505 Download address card Print this page Diverse practice spanning M&A, ",
+    "office_evidence": "New York",
+    "content_hash": "8ce314f093fcb4030935961fdde76f193d2e8c54101cd03a26f06099ecb7472f",
+    "observed_at": "2026-11-21T14:35:12+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "9de82138cd2acde69310",
+    "first_seen": "2026-11-21T14:35:12+00:00",
+    "last_seen": "2026-11-21T14:35:12+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:12+00:00",
+    "office_content_hash": "8ce314f093fcb4030935961fdde76f193d2e8c54101cd03a26f06099ecb7472f"
+  },
+  {
     "firm_id": "cravath",
     "source_url": "https://www.cravath.com/people/faiza-j-saeed.html",
     "name": "Faiza J. Saeed",
@@ -1185,6 +1371,32 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:17:22+00:00",
     "office_content_hash": "c8aeabddd62bb0a545317b84d4c27685432ef7c3395c9d55f5f47c897f7ed5ee"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/fruhbeck-federico/",
+    "name": "Federico Fruhbeck Jr.",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "London"
+    ],
+    "summary": "Federico Fruhbeck is a partner in the London office of Gibson Dunn. Federico is Co-Chair of the Projects and Infrastructure Practice Group, Co-Head of Private Equity in Europe, and a member of the Mergers and Acquisitions and Capital Markets Practice Groups.",
+    "evidence": "Federico Fruhbeck Jr. Federico Fruhbeck Jr. Partner ffruhbeck@gibsondunn.com T: +44 20 7071 4230 London Lawyer vCard PDF Share Federico Fruhbeck is a partner in the London office of Gibson Dunn. Feder | Profile practice labels: Private Equity Capital Markets Data Centers and Digital Infrastructure Infrastructure Mergers and Acquisitions Projects | kets Data Centers and Digital Infrastructure Infrastructure Mergers and Acquisitions Projects Federico Fruhbeck Jr. Partner ffruhbeck@gibsondunn.com T: +44 20 7071 4230 London Lawyer vCard PDF Share Feder",
+    "office_evidence": "ffruhbeck@gibsondunn.com T: +44 20 7071 4230 London Lawyer vCard PDF Share",
+    "content_hash": "7d78dd8f1903a2294d1bcf61667a09ab4f15da51bfee9d0a95574ac792a08d8f",
+    "observed_at": "2026-11-21T14:36:35+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "5d2f053b43fa8355237a",
+    "first_seen": "2026-11-21T14:36:35+00:00",
+    "last_seen": "2026-11-21T14:36:35+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:35+00:00",
+    "office_content_hash": "7d78dd8f1903a2294d1bcf61667a09ab4f15da51bfee9d0a95574ac792a08d8f"
   },
   {
     "firm_id": "paulweiss",
@@ -1265,6 +1477,58 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:20:00+00:00",
     "office_content_hash": "9611a764fd2300bbe6b693e318d911b279785295334b364195f6274817f61676"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/sampas-george/",
+    "name": "George Sampas",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "George Sampas is a partner in Gibson Dunn’s New York office. He is the Co-Chair of Gibson Dunn’s Mergers & Acquisitions Practice Group and Co-Head of Cross-Border M&A. George’s practice focuses on cross-border transactions, unsolicited U.S. and non-U.S. acquisitions and private equity transactions with a specific emphasis in the aviation, aerospace and defense and energy and minerals sectors.",
+    "evidence": "George Sampas George Sampas Partner gsampas@gibsondunn.com T: +1 212.351.6300 New York Lawyer vCard PDF Share George Sampas is a partner in Gibson Dunn’s New York office. He is the Co-Chair of Gibson  | Profile practice labels: Mergers and Acquisitions Aerospace and Defense Energy and Infrastructure Life Sciences Mining and Metals Oil and Gas Power and Renewables Robotics Transportation and Space | Mergers and Acquisitions Aerospace and Defense Energy and Infrastructure Life Sciences Mining and Metals Oil and Gas Power and Renewables Roboti",
+    "office_evidence": "gsampas@gibsondunn.com T: +1 212.351.6300 New York Lawyer vCard PDF Share",
+    "content_hash": "eaef4f7efe0ac5dbb859383cf950a10b1644d44dc9b4d98419fc630fdc078b21",
+    "observed_at": "2026-11-21T14:36:41+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "48d10a3e071aa71ee8fc",
+    "first_seen": "2026-11-21T14:36:41+00:00",
+    "last_seen": "2026-11-21T14:36:41+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:41+00:00",
+    "office_content_hash": "eaef4f7efe0ac5dbb859383cf950a10b1644d44dc9b4d98419fc630fdc078b21"
+  },
+  {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/h-oliver-smith",
+    "name": "H. Oliver Smith",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Head of Mergers & Acquisitions, with a wide-ranging M&A and private equity practice. Named a 2024 American Lawyer “Dealmaker of the Year.”",
+    "evidence": "H. Oliver Smith H. Oliver Smith Lawyers H. Oliver Smith Partner Mergers & Acquisitions New York oliver.smith@davispolk.com +1 212 450 4636 Download address card Print this page Head of Mergers & Acqui |  Lawyers H. Oliver Smith Lawyers H. Oliver Smith Partner Mergers & Acquisitions New York oliver.smith@davispolk.com +1 212 450 4636 Download address card Print this page Head of Mergers & Acquisition",
+    "office_evidence": "New York",
+    "content_hash": "417c10464bfbdaa5959bad6c0056e7c084b537304624b8404ede6339f78a94eb",
+    "observed_at": "2026-11-21T14:35:09+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "b96514563b2d2c651ce3",
+    "first_seen": "2026-11-21T14:35:09+00:00",
+    "last_seen": "2026-11-21T14:35:09+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:09+00:00",
+    "office_content_hash": "417c10464bfbdaa5959bad6c0056e7c084b537304624b8404ede6339f78a94eb"
   },
   {
     "firm_id": "latham",
@@ -1881,6 +2145,58 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:18:03+00:00",
     "office_content_hash": "65ce38dbd4e6d8c12c7a70de486093052025202851bd3a5890f39ca14c4c7d2b"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/pollack-john-m/",
+    "name": "John M. Pollack",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "John M. Pollack is Co-Chair of Gibson Dunn’s Private Equity Practice Group, where he advises private equity firms and their portfolio companies on U.S. and cross-border transactions. He is one of the leaders of the Aerospace & Defense Practice Group and also serves on the Finance Committee of Gibson Dunn.",
+    "evidence": "John M. Pollack John M. Pollack Partner jpollack@gibsondunn.com T: +1 212.351.3903 New York Lawyer vCard PDF Share John M. Pollack is Co-Chair of Gibson Dunn’s Private Equity Practice Group, where he  | Profile practice labels: Private Equity Aerospace and Defense Family Office Mergers and Acquisitions | Private Equity Aerospace and Defense Family Office Mergers and Acquisitions John M. Pollack Partner jpollack@gibsondunn.com T: +1 212.351.3903 New York Lawyer vCard PDF Share John M. Pollack is C",
+    "office_evidence": "jpollack@gibsondunn.com T: +1 212.351.3903 New York Lawyer vCard PDF Share",
+    "content_hash": "cc320cc8f6f4440f848fe77efb8b2c8f2dc180507a1d89598b05feb8d7a70166",
+    "observed_at": "2026-11-21T14:36:39+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "ed225dbe224b24cb524d",
+    "first_seen": "2026-11-21T14:36:39+00:00",
+    "last_seen": "2026-11-21T14:36:39+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:39+00:00",
+    "office_content_hash": "cc320cc8f6f4440f848fe77efb8b2c8f2dc180507a1d89598b05feb8d7a70166"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/ashtor-jonathan/",
+    "name": "Jonathan Ashtor",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Jonathan Ashtor is a partner in the New York office of Gibson Dunn. Jonathan is Co-Chair of Gibson Dunn's Technology Transactions Practice Group, Co-Chair of the Robotics Practice Group and a member of its Mergers and Acquisitions, Artificial Intelligence, and Intellectual Property Practice Groups. He is a transactional lawyer whose practice centers on technology-driven M&A, intellectual property ",
+    "evidence": "Jonathan Ashtor Jonathan Ashtor Partner jashtor@gibsondunn.com T: +1 212.351.3969 New York Lawyer vCard PDF Share Jonathan Ashtor is a partner in the New York office of Gibson Dunn. Jonathan is Co-Cha | Profile practice labels: Technology Transactions Aerospace and Defense Artificial Intelligence Cleantech Data Centers and Digital Infrastructure Emerging Companies / Venture Capital Fintech and Digital Assets Intellectual Property Life Sciences  | Property Life Sciences Media, Entertainment, and Technology Mergers and Acquisitions Privacy, Cybersecurity, and Data Innovation Private Equity Robotics Royalty Finance Strategic Sourcing and Commerc",
+    "office_evidence": "jashtor@gibsondunn.com T: +1 212.351.3969 New York Lawyer vCard PDF Share",
+    "content_hash": "9204f14a69427272b14a3658cbea554df4c72259a556d468b827c729c88e4419",
+    "observed_at": "2026-11-21T14:37:11+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "d74a273003e142dd2eda",
+    "first_seen": "2026-11-21T14:37:11+00:00",
+    "last_seen": "2026-11-21T14:37:11+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:37:11+00:00",
+    "office_content_hash": "9204f14a69427272b14a3658cbea554df4c72259a556d468b827c729c88e4419"
   },
   {
     "firm_id": "skadden",
@@ -2873,6 +3189,139 @@
     "office_content_hash": "12970ef89ae576c27a447cf748e2a174204a592fb9993e9726892aab3cfbbacb"
   },
   {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/michael-gilson",
+    "name": "Michael Gilson",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Advises U.S. and international corporate and private equity clients on a full range of public and private transactions. A 2025 Law360 “Rising Star” in M&A.",
+    "evidence": "Michael Gilson Michael Gilson Lawyers Michael Gilson Partner Mergers & Acquisitions New York michael.gilson@davispolk.com +1 212 450 4273 Download address card Print this page Advises U.S. and interna |  Lawyers Michael Gilson Lawyers Michael Gilson Partner Mergers & Acquisitions New York michael.gilson@davispolk.com +1 212 450 4273 Download address card Print this page Advises U.S. and internatio | rings, special committee representations, and defensive and corporate governance advice. In 2025, Law360 named Michael a “Rising Star” in mergers and acquisitions. Capabilities Mergers & Acquisitions ",
+    "office_evidence": "New York",
+    "content_hash": "0d07703f8b049f3f98720b6245a59d80484eb4e983c560d8cd75a883d7e9ff72",
+    "observed_at": "2026-11-21T14:35:14+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "ee5c996ef426afc3bc9d",
+    "first_seen": "2026-11-21T14:35:14+00:00",
+    "last_seen": "2026-11-21T14:35:14+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:14+00:00",
+    "office_content_hash": "0d07703f8b049f3f98720b6245a59d80484eb4e983c560d8cd75a883d7e9ff72"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/piazza-michael/",
+    "name": "Michael Piazza",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Houston"
+    ],
+    "summary": "Michael De Voe Piazza is a partner in Gibson Dunn’s Houston office, and serves as Co-Chair of both the U.S. Private Equity Practice and GP Solutions Practice. Michael focuses his private equity practice on mergers, acquisitions, dispositions, joint ventures and equity and debt offerings, including control, minority and preferred investments and structured equity and asset-level investments and fin",
+    "evidence": "Michael Piazza Michael Piazza Partner mpiazza@gibsondunn.com T: +1 346.718.6670 Houston Lawyer vCard PDF Share Michael De Voe Piazza is a partner in Gibson Dunn’s Houston office, and serves as Co-Chai | Profile practice labels: Private Equity Energy and Infrastructure Family Office Mergers and Acquisitions Oil and Gas Power and Renewables Royalty Finance | Private Equity Energy and Infrastructure Family Office Mergers and Acquisitions Oil and Gas Power and Renewables Royalty Finance Michael Piazza Partner mpiazza@gibsondunn.com T: +1 346.718.6670 Houst | nsactional) for Nationwide, and Private Equity: Buyouts and Corporate/M&A in Texas. One c",
+    "office_evidence": "mpiazza@gibsondunn.com T: +1 346.718.6670 Houston Lawyer vCard PDF Share",
+    "content_hash": "3e88802e8fcf17d8f89ff631698897bfeacd45f1334c1679675a19e67eba7cb9",
+    "observed_at": "2026-11-21T14:36:38+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "554e943f05985dabfb2a",
+    "first_seen": "2026-11-21T14:36:38+00:00",
+    "last_seen": "2026-11-21T14:36:38+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:38+00:00",
+    "office_content_hash": "3e88802e8fcf17d8f89ff631698897bfeacd45f1334c1679675a19e67eba7cb9"
+  },
+  {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/michael-senders",
+    "name": "Michael Senders",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Advises clients on public and private company M&A, sports transactions, private equity transactions and joint ventures. A 2026 American Lawyer “Dealmaker of the Year.”",
+    "evidence": "Michael Senders Michael Senders Lawyers Michael Senders Partner Mergers & Acquisitions New York michael.senders@davispolk.com +1 212 450 3367 Download address card Print this page Advises clients on p |  Lawyers Michael Senders Lawyers Michael Senders Partner Mergers & Acquisitions New York michael.senders@davispolk.com +1 212 450 3367 Download address card Print this page Advises clients on public ",
+    "office_evidence": "New York",
+    "content_hash": "ef9c47128c237ad0527e8b847dc9714cbb078233008e4540220f8f9cc88da1e1",
+    "observed_at": "2026-11-21T14:35:15+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "9d912c08d2ad5b7848b7",
+    "first_seen": "2026-11-21T14:35:15+00:00",
+    "last_seen": "2026-11-21T14:35:15+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:15+00:00",
+    "office_content_hash": "ef9c47128c237ad0527e8b847dc9714cbb078233008e4540220f8f9cc88da1e1"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/alhasan-mohamed/",
+    "name": "Mohamed A. Hasan",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "Riyadh"
+    ],
+    "summary": "Mohamed A. Hasan advises regional sovereign wealth funds, private equity firms, large corporates and multinational companies, family offices and investment houses on complex private and public mergers and acquisitions, joint ventures, and corporate restructurings in the Middle East.",
+    "evidence": "Mohamed A. Hasan Mohamed A. Hasan Partner malhasan@gibsondunn.com T: +966 11 211 9014 Riyadh Lawyer vCard PDF Share Mohamed A. Hasan advises regional sovereign wealth funds, private equity firms, larg | Profile practice labels: Mergers and Acquisitions Artificial Intelligence Energy and Infrastructure Life Sciences Media, Entertainment, and Technology Oil and Gas | Mergers and Acquisitions Artificial Intelligence Energy and Infrastructure Life Sciences Media, Entertainment, and Technology Oil and Gas Mohame",
+    "office_evidence": "malhasan@gibsondunn.com T: +966 11 211 9014 Riyadh Lawyer vCard PDF Share",
+    "content_hash": "5de96890fe552898854bf6d8683a9447505ba4b2bf8715e58ffc5ed19ff5d869",
+    "observed_at": "2026-11-21T14:36:59+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "ec969d4799e77ea473eb",
+    "first_seen": "2026-11-21T14:36:59+00:00",
+    "last_seen": "2026-11-21T14:36:59+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:59+00:00",
+    "office_content_hash": "5de96890fe552898854bf6d8683a9447505ba4b2bf8715e58ffc5ed19ff5d869"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/al-gadi-najla/",
+    "name": "Najla Al-Gadi",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Riyadh"
+    ],
+    "summary": "Najla S. Al-Gadi is a partner in the Riyadh office of Gibson Dunn and is a member of the firm’s Capital Markets practice group.",
+    "evidence": "Najla Al-Gadi Najla Al-Gadi Partner nalgadi@gibsondunn.com T: +966 11 211 9010 Riyadh Lawyer vCard PDF Share Najla S. Al-Gadi is a partner in the Riyadh office of Gibson Dunn and is a member of the fi | Profile practice labels: Capital Markets Mergers and Acquisitions Public Companies Securities Regulation and Corporate Governance | Capital Markets Mergers and Acquisitions Public Companies Securities Regulation and Corporate Governance Najla Al-Gadi Partner nalgadi@gibsondunn.com T: +966 11 | and Acquisitions Public Companies Securities Regulation and Corporate Governance Najla Al-Gadi Partner nalgadi@gibsondunn.com T: +966 11 211 9010 Riyadh",
+    "office_evidence": "nalgadi@gibsondunn.com T: +966 11 211 9010 Riyadh Lawyer vCard PDF Share",
+    "content_hash": "795f49f82d62174e1abbaf7eccb104b5761f0e1235168c89fd7b037ea29ddd73",
+    "observed_at": "2026-11-21T14:36:53+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "b753cb47db6ddaa3d413",
+    "first_seen": "2026-11-21T14:36:53+00:00",
+    "last_seen": "2026-11-21T14:36:53+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:53+00:00",
+    "office_content_hash": "795f49f82d62174e1abbaf7eccb104b5761f0e1235168c89fd7b037ea29ddd73"
+  },
+  {
     "firm_id": "quinn",
     "source_url": "https://www.quinnemanuel.com/attorneys/alrubayyi-nasser/",
     "name": "Nasser Alrubayyi",
@@ -3087,6 +3536,33 @@
     "office_content_hash": "ab2430f8e21e443c0138e87e91b6c2b6e93d76cddc490024268062a59c733f30"
   },
   {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/paul-scrivano",
+    "name": "Paul S. Scrivano",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Paul is the head of our West Coast M&A practice. Paul is a nationally recognized M&A lawyer, and clients across industries turn to him for guidance on their most complex U.S. and cross-border M&A transactions. Paul has extensive experience in a broad range of deals, including mergers, tender and exchange offers, stock and asset acquisitions, divestitures, spinoffs and splitoffs, and joint ventures",
+    "evidence": "Paul S. Scrivano Paul S. Scrivano Lawyers Paul S. Scrivano Partner Mergers & Acquisitions Northern California New York paul.scrivano@davispolk.com +1 650 752 2008 +1 212 450 4304 Download address card |  Lawyers Paul S. Scrivano Lawyers Paul S. Scrivano Partner Mergers & Acquisitions Northern California New York paul.scrivano@davispolk.com +1 650 752 2008 +1 212 450 4304 Download address card Print th | ate boards and committees in transactional and high-profile corporate governance matters, in shareholder activism matters and as to takeover defense strategies. Paul also regularly advises private equ",
+    "office_evidence": "Northern California New York",
+    "content_hash": "585cd100b192c1faac1abc97d807693f60bb80fa005f6f90bc813c12e36c8c5a",
+    "observed_at": "2026-11-21T14:35:06+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "0d7ccebcfb0dca603f33",
+    "first_seen": "2026-11-21T14:35:06+00:00",
+    "last_seen": "2026-11-21T14:35:06+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:06+00:00",
+    "office_content_hash": "585cd100b192c1faac1abc97d807693f60bb80fa005f6f90bc813c12e36c8c5a"
+  },
+  {
     "firm_id": "weil",
     "source_url": "https://www.weil.com/people/pierrealexandre-kahn",
     "name": "Pierre-Alexandre Kahn",
@@ -3223,6 +3699,59 @@
     "office_content_hash": "2db413970b95b693630a7a244190b5052af1a3725c25f03bad0c6abf78fb0393"
   },
   {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/birns-richard-j/",
+    "name": "Richard J. Birns",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Richard Birns is Co-Chair of Gibson Dunn’s Private Equity Practice Group. He regularly represents private equity firms and companies on domestic and cross-border leveraged buyouts, strategic mergers and acquisitions, divestitures, carve-outs, minority investments, and joint ventures.",
+    "evidence": "Richard J. Birns Richard J. Birns Partner rbirns@gibsondunn.com T: +1 212.351.4032 New York Lawyer vCard PDF Share Richard Birns is Co-Chair of Gibson Dunn’s Private Equity Practice Group. He regularl | Profile practice labels: Private Equity Mergers and Acquisitions Shareholder Activism Sports Law | Private Equity Mergers and Acquisitions Shareholder Activism Sports Law Richard J. Birns Partner rbirns@gibsondunn.com T: +1 212.351.4032 New York Lawyer vCard",
+    "office_evidence": "rbirns@gibsondunn.com T: +1 212.351.4032 New York Lawyer vCard PDF Share",
+    "content_hash": "5457a84746ec18d5d32b38dab0ba65d6377e7594c3f1503fd2ae8a763003e34a",
+    "observed_at": "2026-11-21T14:36:32+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "041f4bfe27fdb4ae7b01",
+    "first_seen": "2026-11-21T14:36:32+00:00",
+    "last_seen": "2026-11-21T14:36:32+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:32+00:00",
+    "office_content_hash": "5457a84746ec18d5d32b38dab0ba65d6377e7594c3f1503fd2ae8a763003e34a"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/little-robert-b/",
+    "name": "Robert B. Little",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Dallas"
+    ],
+    "summary": "Robert B. Little is a partner in Gibson Dunn’s Dallas office. He is a Global Co-Chair of the Mergers and Acquisitions Practice Group and a former member of the firm's Executive Committee.",
+    "evidence": "Robert B. Little Robert B. Little Partner rlittle@gibsondunn.com T: +1 214.698.3260 Dallas Lawyer vCard PDF Share Robert B. Little is a partner in Gibson Dunn’s Dallas office. He is a Global Co-Chair  | Profile practice labels: Mergers and Acquisitions Capital Markets Consumer Products and Retail Energy and Infrastructure Family Office Finance Investment Funds Oil and Gas Power and Renewables Private Equity Robotics Securities Regulation and Co | Mergers and Acquisitions Capital Markets Consumer Products and Retail Energy and Infrastructure Family Office Finance Investment Funds Oil and G | enewables Private Equity Robotics Securities Regulat",
+    "office_evidence": "rlittle@gibsondunn.com T: +1 214.698.3260 Dallas Lawyer vCard PDF Share",
+    "content_hash": "d026b32e906157e3b3220d9e53eb58835d57a8d27ec9fe685a62c34320b97dbe",
+    "observed_at": "2026-11-21T14:36:27+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "626120732a9f8c771a44",
+    "first_seen": "2026-11-21T14:36:27+00:00",
+    "last_seen": "2026-11-21T14:36:27+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:27+00:00",
+    "office_content_hash": "d026b32e906157e3b3220d9e53eb58835d57a8d27ec9fe685a62c34320b97dbe"
+  },
+  {
     "firm_id": "paulweiss",
     "source_url": "https://www.paulweiss.com/professionals/partners-and-counsel/roger-johnson",
     "name": "Roger Johnson",
@@ -3248,6 +3777,33 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:21:12+00:00",
     "office_content_hash": "d5a7d5c62fce6bf44029ed0a3e1889075b862adaf722bddb197dbd7725881290"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/muzumdar-saee/",
+    "name": "Saee Muzumdar",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Saee Muzumdar is a partner in the New York office of Gibson Dunn and Co-Chair of the firm’s Mergers and Acquisitions Practice Group. Saee is a corporate transactional lawyer whose practice focuses on representing strategic companies and private equity clients (including their portfolio companies) and their boards of directors in connection with all aspects of their domestic and cross-border M&A ac",
+    "evidence": "Saee Muzumdar Saee Muzumdar Partner smuzumdar@gibsondunn.com T: +1 212.351.3966 New York Lawyer vCard PDF Share Saee Muzumdar is a partner in the New York office of Gibson Dunn and Co-Chair of the fir | Profile practice labels: Mergers and Acquisitions Consumer Products and Retail Emerging Companies / Venture Capital Life Sciences Private Equity Securities Regulation and Corporate Governance Shareholder Activism | Mergers and Acquisitions Consumer Products and Retail Emerging Companies / Venture Capital Life Sciences Private Equity Securities Regulation an | ital Life Sciences Private Equity Securities Regulation and Corporate Governance Shar",
+    "office_evidence": "smuzumdar@gibsondunn.com T: +1 212.351.3966 New York Lawyer vCard PDF Share",
+    "content_hash": "dad228e7bb78539badbb5d424cc5da820b5d8f8bf41e7a668320f2e439cc07bd",
+    "observed_at": "2026-11-21T14:36:36+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "85400414e3b1307a51bf",
+    "first_seen": "2026-11-21T14:36:36+00:00",
+    "last_seen": "2026-11-21T14:36:36+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:36+00:00",
+    "office_content_hash": "dad228e7bb78539badbb5d424cc5da820b5d8f8bf41e7a668320f2e439cc07bd"
   },
   {
     "firm_id": "latham",
@@ -3439,6 +3995,33 @@
     "office_content_hash": "0085477ea6255c5e4c3b2d7e0351f10d40eb8bff2c9b4b7dfd7477e422884f92"
   },
   {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/shanu-bajaj",
+    "name": "Shanu Bajaj",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "New York"
+    ],
+    "summary": "Advises U.S. and international clients on a broad range of public and private M&A matters. Named a 2024 American Lawyer “Dealmaker of the Year.”",
+    "evidence": "Shanu Bajaj Shanu Bajaj Lawyers Shanu Bajaj Partner Mergers & Acquisitions New York shanu.bajaj@davispolk.com +1 212 450 4698 Download address card Print this page Advises U.S. and international clien |  Lawyers Shanu Bajaj Lawyers Shanu Bajaj Partner Mergers & Acquisitions New York shanu.bajaj@davispolk.com +1 212 450 4698 Download address card Print this page Advises U.S. and international | clients on a broad range of public and private M&A matters, corporate governance and shareholder activism. Her experience includes investments, joint ventures, carve-outs, spinoffs and other significa",
+    "office_evidence": "New York",
+    "content_hash": "88cce8fad7e04ecbd45d8a6df70ebc6317cec5b5e61513fe1da3016700347d41",
+    "observed_at": "2026-11-21T14:35:11+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "dc2a7cc5f460868f6c53",
+    "first_seen": "2026-11-21T14:35:11+00:00",
+    "last_seen": "2026-11-21T14:35:11+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:11+00:00",
+    "office_content_hash": "88cce8fad7e04ecbd45d8a6df70ebc6317cec5b5e61513fe1da3016700347d41"
+  },
+  {
     "firm_id": "kirkland",
     "source_url": "https://www.kirkland.com/lawyers/c/chung-shaun",
     "name": "Shaun Chung",
@@ -3518,6 +4101,33 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:22:08+00:00",
     "office_content_hash": "7b9bae450ddfa478f5ca2d5fd6abec9821a83ebf047e2fbe43db0a7d2b021e7e"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/glover-stephen/",
+    "name": "Stephen Glover",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "Washington, D.C."
+    ],
+    "summary": "Stephen I. Glover is a partner in the Washington, D.C. office of Gibson Dunn who has served as Co-Chair of the firm’s Global Mergers and Acquisitions Practice. Stephen has an extensive practice representing public and private companies in complex mergers and acquisitions, joint ventures, equity and debt offerings, and corporate governance matters. His clients include large public corporations, eme",
+    "evidence": "Stephen Glover Stephen Glover Partner siglover@gibsondunn.com T: +1 202.955.8593 Washington, D.C. Lawyer vCard PDF Share Stephen I. Glover is a partner in the Washington, D.C. office of Gibson Dunn wh | Profile practice labels: Mergers and Acquisitions Capital Markets Consumer Products and Retail Emerging Companies / Venture Capital Life Sciences Private Equity Securities Regulation and Corporate Governance Shareholder Activism | Mergers and Acquisitions Capital Markets Consumer Products and Retail Emerging Companies / Venture Capital Life Sciences Private Equity Securiti | ital Life Sciences Private Equity Securities Regulation and Corporate",
+    "office_evidence": "siglover@gibsondunn.com T: +1 202.955.8593 Washington, D.C. Lawyer vCard PDF Share",
+    "content_hash": "f7428645f9dc861a87f361661d68a05e9f2852b37d0df3aeba6be5e2dfdd52bf",
+    "observed_at": "2026-11-21T14:36:27+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "12be568ee2a75c8ba3fd",
+    "first_seen": "2026-11-21T14:36:27+00:00",
+    "last_seen": "2026-11-21T14:36:27+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:27+00:00",
+    "office_content_hash": "f7428645f9dc861a87f361661d68a05e9f2852b37d0df3aeba6be5e2dfdd52bf"
   },
   {
     "firm_id": "sullivan",
@@ -3706,6 +4316,59 @@
     "office_content_hash": "0fb7de237f3b39a7ee830c846b136ff539b7cb6a0e9b6938ddc250de28df85f1"
   },
   {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/reinhardt-wilhelm/",
+    "name": "Wilhelm Reinhardt",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "Frankfurt"
+    ],
+    "summary": "Wilhelm Reinhardt is a partner in the Frankfurt office of Gibson Dunn. He is a member of the firm’s Mergers & Acquisitions and Private Equity Practice Groups.",
+    "evidence": "Wilhelm Reinhardt Wilhelm Reinhardt Partner wreinhardt@gibsondunn.com T: +49 69 247 411 520 Frankfurt Lawyer vCard PDF Share Wilhelm Reinhardt is a partner in the Frankfurt office of Gibson Dunn. He i | Profile practice labels: Private Equity Aerospace and Defense Artificial Intelligence Consumer Products and Retail FDA and Health Care Mergers and Acquisitions | telligence Consumer Products and Retail FDA and Health Care Mergers and Acquisitions Wilhelm Reinhardt Partner wreinhardt@gibsondunn.com T: +49 69 247 411 520 Frankfurt Lawyer vCard PDF Share Wilhelm Rein",
+    "office_evidence": "wreinhardt@gibsondunn.com T: +49 69 247 411 520 Frankfurt Lawyer vCard PDF Share",
+    "content_hash": "2c5a7a410b872eb4d05555e21436fb5c2f82d6f4e21c2adcc7fce564dc6f0467",
+    "observed_at": "2026-11-21T14:36:23+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "54f8db0b9f8ab8c3965e",
+    "first_seen": "2026-11-21T14:36:23+00:00",
+    "last_seen": "2026-11-21T14:36:23+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:23+00:00",
+    "office_content_hash": "2c5a7a410b872eb4d05555e21436fb5c2f82d6f4e21c2adcc7fce564dc6f0467"
+  },
+  {
+    "firm_id": "davispolk",
+    "source_url": "https://www.davispolk.com/lawyers/will-pearce",
+    "name": "Will Pearce",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions",
+      "Corporate"
+    ],
+    "offices": [
+      "London"
+    ],
+    "summary": "Co-head of Europe practice. Advises clients on public and private M&A transactions, joint ventures, takeovers and mergers, and securities offerings and listings.",
+    "evidence": "Will Pearce Will Pearce Lawyers Will Pearce Partner Mergers & Acquisitions London will.pearce@davispolk.com +44 20 7418 1448 Download address card Print this page Co-head of Europe practice. Advises c |  Lawyers Will Pearce Lawyers Will Pearce Partner Mergers & Acquisitions London will.pearce@davispolk.com +44 20 7418 1448 Download address card Print this page Co-head of Europe practice. Adv | , and securities offerings and listings. He also advises on corporate governance, shareholder activism and restructuring matters. With over 30 years’ experience of advising on the UK’s Takeover Code a",
+    "office_evidence": "London",
+    "content_hash": "c234245aace871410ef9458975f6ddfa3c6287046056a120adb0e32b07c34638",
+    "observed_at": "2026-11-21T14:35:08+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "6305637552d24c651e16",
+    "first_seen": "2026-11-21T14:35:08+00:00",
+    "last_seen": "2026-11-21T14:35:08+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:35:08+00:00",
+    "office_content_hash": "c234245aace871410ef9458975f6ddfa3c6287046056a120adb0e32b07c34638"
+  },
+  {
     "firm_id": "king",
     "source_url": "https://www.kslaw.com/people/will-jordan",
     "name": "William Jordan (Will)",
@@ -3731,6 +4394,32 @@
     "office_status": "current",
     "office_observed_at": "2026-11-21T14:23:39+00:00",
     "office_content_hash": "a571693fa716cf880838a974cba1e4aa711983eb5c3b235afb07b1a0198074ab"
+  },
+  {
+    "firm_id": "gibson",
+    "source_url": "https://www.gibsondunn.com/lawyer/de-vlieger-wim/",
+    "name": "Wim De Vlieger",
+    "title": "Partner",
+    "practices": [
+      "Mergers & Acquisitions"
+    ],
+    "offices": [
+      "London"
+    ],
+    "summary": "Wim De Vlieger is a partner in the London office of Gibson Dunn. Wim is Co-Chair of Private Equity in Europe and a member of the Mergers and Acquisitions and Capital Markets Practice Groups.",
+    "evidence": "Wim De Vlieger Wim De Vlieger Partner wdevlieger@gibsondunn.com T: +44 20 7071 4279 London Lawyer vCard PDF Share Wim De Vlieger is a partner in the London office of Gibson Dunn. Wim is Co-Chair of Pr | Profile practice labels: Private Equity Capital Markets Life Sciences Mergers and Acquisitions | Private Equity Capital Markets Life Sciences Mergers and Acquisitions Wim De Vlieger Partner wdevlieger@gibsondunn.com T: +44 20 7071 4279 London Lawyer vCard PDF Share Wim De Vlieger is a ",
+    "office_evidence": "wdevlieger@gibsondunn.com T: +44 20 7071 4279 London Lawyer vCard PDF Share",
+    "content_hash": "9f7197b7255bbe962818f443ec29e05098da46b78d0ef01e0ccb8b4ceff719b2",
+    "observed_at": "2026-11-21T14:36:33+00:00",
+    "extraction_version": "2",
+    "verification": "official_profile",
+    "scope_note": "Practice evidence; review practice fit before outreach",
+    "id": "125505901a9349acd74b",
+    "first_seen": "2026-11-21T14:36:33+00:00",
+    "last_seen": "2026-11-21T14:36:33+00:00",
+    "office_status": "current",
+    "office_observed_at": "2026-11-21T14:36:33+00:00",
+    "office_content_hash": "9f7197b7255bbe962818f443ec29e05098da46b78d0ef01e0ccb8b4ceff719b2"
   },
   {
     "firm_id": "weil",
