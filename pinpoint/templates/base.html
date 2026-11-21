@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en-GB">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }} | Pinpoint</title><meta name="description" content="Source-backed corporate and M&A partner research for legal recruiters.">
+<link rel="stylesheet" href="/static/app.css"><script src="/static/app.js" defer></script></head>
+<body><a class="skip" href="#main">Skip to content</a>
+<aside class="sidebar"><a class="brand" href="/">pinpoint<span>PARTNER INTELLIGENCE</span></a>
+<nav aria-label="Main navigation">
+<a href="/" {% if route == '/' or route.startswith('/partners/') %}aria-current="page"{% endif %}><span aria-hidden="true">⌕</span> Partner directory</a>
+<a href="/changes" {% if route == '/changes' %}aria-current="page"{% endif %}><span aria-hidden="true">≋</span> Observed changes</a>
+<a href="/coverage" {% if route == '/coverage' %}aria-current="page"{% endif %}><span aria-hidden="true">▤</span> Coverage & refreshes</a>
+</nav><div class="sidebar-note">Research before the call.<br><strong>Evidence before inference.</strong><p>Assessment MVP · Public professional information only</p></div></aside>
+<div class="workspace"><header class="topbar"><span>PINPOINT PARTNERS / LEGAL RESEARCH</span><span class="badge">Source-backed baseline</span></header>
+<main id="main"><div class="coverage-strip" aria-label="Captured profiles by firm">
+{% for f in firm_coverage %}<a href="/?firm={{ f.firm_id }}" class="firm-segment {% if f.captured %}has-data{% endif %}" title="{{ f.name }}: {{ f.captured }} captured; global coverage unverified"><span>{{ f.name.split(',')[0].split(' & ')[0] }}</span><strong>{{ f.captured }}</strong></a>{% endfor %}
+</div>{% block content %}{% endblock %}</main>
+<footer class="page-footer">Public-source research · Global coverage unverified · Check the official profile before outreach · All observation times UTC</footer></div></body></html>

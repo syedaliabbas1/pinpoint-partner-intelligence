@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.pytest-tmp/
+.ruff_cache/
+*.pyc
+.env
+.firecrawl/
+tmp/
+data/*.sqlite*
+data/raw/
+*.pdf
+premium-audit.json
+output/

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "kirkland",
+    "name": "Kirkland & Ellis",
+    "base": "https://www.kirkland.com",
+    "directory": "https://www.kirkland.com/lawyers",
+    "practice_pages": [
+      "https://www.kirkland.com/services/practices/transactional/mergers--acquisitions"
+    ]
+  },
+  {
+    "id": "wachtell",
+    "name": "Wachtell, Lipton, Rosen & Katz",
+    "base": "https://www.wlrk.com",
+    "directory": "https://www.wlrk.com/attorneys/"
+  },
+  {
+    "id": "quinn",
+    "name": "Quinn Emanuel Urquhart & Sullivan",
+    "base": "https://www.quinnemanuel.com",
+    "directory": "https://www.quinnemanuel.com/attorneys/",
+    "practice_pages": [
+      "https://www.quinnemanuel.com/practice-areas/mergers-acquisitions-litigation/",
+      "https://www.quinnemanuel.com/practice-areas/delaware-practice/",
+      "https://www.quinnemanuel.com/practice-areas/partnership-and-founders-dispute-litigation/"
+    ]
+  },
+  {
+    "id": "davispolk",
+    "name": "Davis Polk & Wardwell",
+    "base": "https://www.davispolk.com",
+    "directory": "https://www.davispolk.com/people"
+  },
+  {
+    "id": "simpson",
+    "name": "Simpson Thacher & Bartlett",
+    "base": "https://www.stblaw.com",
+    "directory": "https://www.stblaw.com/our-team",
+    "practice_pages": [
+      "https://www.stblaw.com/client-services/practices/corporate/mergers-and-acquisitions",
+      "https://www.stblaw.com/client-services/practices/corporate/mergers-and-acquisitions/corporate-m-a",
+      "https://www.stblaw.com/client-services/practices/corporate/mergers-and-acquisitions/private-equity/"
+    ]
+  },
+  {
+    "id": "paulweiss",
+    "name": "Paul, Weiss, Rifkind, Wharton & Garrison",
+    "base": "https://www.paulweiss.com",
+    "directory": "https://www.paulweiss.com/professionals",
+    "practice_pages": [
+      "https://www.paulweiss.com/practices/transactional/mergers-acquisitions",
+      "https://www.paulweiss.com/practices/transactional/corporate"
+    ]
+  },
+  {
+    "id": "gibson",
+    "name": "Gibson Dunn",
+    "base": "https://www.gibsondunn.com",
+    "directory": "https://www.gibsondunn.com/lawyers/",
+    "practice_pages": [
+      "https://www.gibsondunn.com/practice/mergers-and-acquisitions/",
+      "https://www.gibsondunn.com/practice/private-equity/"
+    ]
+  },
+  {
+    "id": "latham",
+    "name": "Latham & Watkins",
+    "base": "https://www.lw.com",
+    "directory": "https://www.lw.com/en/people",
+    "practice_pages": [
+      "https://www.lw.com/en/practices/mergers-and-acquisitions",
+      "https://www.lw.com/en/practices/private-equity"
+    ]
+  },
+  {
+    "id": "cravath",
+    "name": "Cravath, Swaine & Moore",
+    "base": "https://www.cravath.com",
+    "directory": "https://www.cravath.com/people/index.html",
+    "practice_pages": [
+      "https://www.cravath.com/practices/practices/corporate/mergers-and-acquisitions.html"
+    ]
+  },
+  {
+    "id": "milbank",
+    "name": "Milbank",
+    "base": "https://www.milbank.com",
+    "directory": "https://www.milbank.com/en/professionals/",
+    "practice_pages": [
+      "https://www.milbank.com/en/practices/areas/corporate/mergers-and-acquisitions.html",
+      "https://www.milbank.com/en/practices/areas/corporate/distressed-mergers-and-acquisitions.html"
+    ]
+  },
+  {
+    "id": "sullivan",
+    "name": "Sullivan & Cromwell",
+    "base": "https://www.sullcrom.com",
+    "directory": "https://www.sullcrom.com/LawyerListing",
+    "practice_pages": [
+      "https://www.sullcrom.com/Practices/General-Practice/Mergers-Acquisitions/"
+    ]
+  },
+  {
+    "id": "paulhastings",
+    "name": "Paul Hastings",
+    "base": "https://www.paulhastings.com",
+    "directory": "https://www.paulhastings.com/professionals"
+  },
+  {
+    "id": "skadden",
+    "name": "Skadden, Arps, Slate, Meagher & Flom",
+    "base": "https://www.skadden.com",
+    "directory": "https://www.skadden.com/professionals",
+    "practice_pages": [
+      "https://www.skadden.com/capabilities/practices/mergers-and-acquisitions/cc/mergers-and-acquisitions",
+      "https://www.skadden.com/capabilities/practices/corporate"
+    ]
+  },
+  {
+    "id": "king",
+    "name": "King & Spalding",
+    "base": "https://www.kslaw.com",
+    "directory": "https://www.kslaw.com/people",
+    "practice_pages": [
+      "https://www.kslaw.com/capabilities/mergers-acquisitions-m-a"
+    ]
+  },
+  {
+    "id": "weil",
+    "name": "Weil, Gotshal & Manges",
+    "base": "https://www.weil.com",
+    "directory": "https://www.weil.com/people",
+    "practice_pages": [
+      "https://www.weil.com/experience/practices/mergers-and-acquisitions"
+    ]
+  }
+]

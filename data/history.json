@@ -1,0 +1,311 @@
+{
+  "events": [],
+  "runs": [
+    {
+      "id": 34,
+      "firm_id": "king",
+      "started_at": "2026-11-21T14:23:18+00:00",
+      "finished_at": "2026-11-21T14:23:48+00:00",
+      "status": "partial",
+      "message": "15 accepted / 17 profiles fetched; 17 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.kslaw.com/People/Michelle-Huang | Not accepted (scope/title/template needs review): https://www.kslaw.com/people/victor-dumesnil",
+      "count": 15
+    },
+    {
+      "id": 33,
+      "firm_id": "skadden",
+      "started_at": "2026-11-21T14:23:02+00:00",
+      "finished_at": "2026-11-21T14:23:18+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 32,
+      "firm_id": "latham",
+      "started_at": "2026-11-21T14:21:32+00:00",
+      "finished_at": "2026-11-21T14:23:02+00:00",
+      "status": "partial",
+      "message": "25 accepted / 25 profiles fetched; 25 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 25
+    },
+    {
+      "id": 31,
+      "firm_id": "paulweiss",
+      "started_at": "2026-11-21T14:21:00+00:00",
+      "finished_at": "2026-11-21T14:21:31+00:00",
+      "status": "partial",
+      "message": "16 accepted / 17 profiles fetched; 17 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.paulweiss.com/professionals/partners-and-counsel/antony-freeman",
+      "count": 16
+    },
+    {
+      "id": 30,
+      "firm_id": "kirkland",
+      "started_at": "2026-11-21T14:20:25+00:00",
+      "finished_at": "2026-11-21T14:21:00+00:00",
+      "status": "partial",
+      "message": "21 accepted / 21 profiles fetched; 21 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 21
+    },
+    {
+      "id": 29,
+      "firm_id": "weil",
+      "started_at": "2026-11-21T14:19:44+00:00",
+      "finished_at": "2026-11-21T14:20:12+00:00",
+      "status": "partial",
+      "message": "11 accepted / 17 profiles fetched; 17 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.weil.com/people/mergers-and-acquisitions | Not accepted (scope/title/template needs review): https://www.weil.com/people/retail-and-consumer-goods | Not accepted (scope/title/template needs review): https://www.weil.com/people/secondary-transactions-and-sponsor-solutions | Not accepted (scope/title/template needs review): https://www.weil.com/people/infrastructure | Not accepted (scope/title/template needs review): https://www.weil.com/people/banking-and-finance | Not accepted (scope/title/template needs review): https://www.weil.com/people/spacs",
+      "count": 11
+    },
+    {
+      "id": 28,
+      "firm_id": "king",
+      "started_at": "2026-11-21T14:19:20+00:00",
+      "finished_at": "2026-11-21T14:19:44+00:00",
+      "status": "partial",
+      "message": "12 accepted / 14 profiles fetched; 14 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.kslaw.com/People/Michelle-Huang | Not accepted (scope/title/template needs review): https://www.kslaw.com/people/victor-dumesnil",
+      "count": 12
+    },
+    {
+      "id": 27,
+      "firm_id": "skadden",
+      "started_at": "2026-11-21T14:19:07+00:00",
+      "finished_at": "2026-11-21T14:19:20+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 26,
+      "firm_id": "sullivan",
+      "started_at": "2026-11-21T14:18:22+00:00",
+      "finished_at": "2026-11-21T14:19:07+00:00",
+      "status": "partial",
+      "message": "14 accepted / 27 profiles fetched; 27 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Alison-S-Ressler.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Ben-Perry.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/C-Andrew-Gerlach.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Carsten-Berrar.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Francis-J-Aquila.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Jeremy-Kutner.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Kay-Ian-Ng.vcf | Not accepted (scope/title/template needs review): https://www.sullcrom.com/Lawyers/Keiji-Hatano.vcf",
+      "count": 14
+    },
+    {
+      "id": 25,
+      "firm_id": "milbank",
+      "started_at": "2026-11-21T14:17:27+00:00",
+      "finished_at": "2026-11-21T14:18:21+00:00",
+      "status": "partial",
+      "message": "16 accepted / 32 profiles fetched; 32 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/patrick-s-campbell.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/alexander-anderson.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/alexander-k-borisoff.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/austin-bramwell-1.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/chris-s-bloom.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/claire-bridcut.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/drew-batkin.html | Not accepted (scope/title/template needs review): https://www.milbank.com/en/professionals/grant-a-bermann.html",
+      "count": 16
+    },
+    {
+      "id": 24,
+      "firm_id": "cravath",
+      "started_at": "2026-11-21T14:17:18+00:00",
+      "finished_at": "2026-11-21T14:17:27+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 5 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Directory: Path disallowed by robots.txt | Path disallowed by robots.txt",
+      "count": 4
+    },
+    {
+      "id": 23,
+      "firm_id": "latham",
+      "started_at": "2026-11-21T14:16:38+00:00",
+      "finished_at": "2026-11-21T14:17:18+00:00",
+      "status": "partial",
+      "message": "11 accepted / 11 profiles fetched; 11 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 11
+    },
+    {
+      "id": 22,
+      "firm_id": "paulweiss",
+      "started_at": "2026-11-21T14:16:27+00:00",
+      "finished_at": "2026-11-21T14:16:38+00:00",
+      "status": "partial",
+      "message": "3 accepted / 3 profiles fetched; 3 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 3
+    },
+    {
+      "id": 21,
+      "firm_id": "simpson",
+      "started_at": "2026-11-21T14:15:52+00:00",
+      "finished_at": "2026-11-21T14:16:27+00:00",
+      "status": "partial",
+      "message": "10 accepted / 14 profiles fetched; 21 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.stblaw.com/our-team/partners/adam-arikat/ | Not accepted (scope/title/template needs review): https://www.stblaw.com/our-team/partners/adam-s-aderton/ | Not accepted (scope/title/template needs review): https://www.stblaw.com/our-team/partners/christian-albanesi/ | HTTP 429 for https://www.stblaw.com/our-team/partners/john-anselmi/; no retry or access bypass",
+      "count": 10
+    },
+    {
+      "id": 20,
+      "firm_id": "quinn",
+      "started_at": "2026-11-21T14:14:10+00:00",
+      "finished_at": "2026-11-21T14:15:52+00:00",
+      "status": "partial",
+      "message": "8 accepted / 62 profiles fetched; 62 known candidates; bounded to 70. robots.txt HTTP 404: no policy published. Global coverage unverified. Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/abensohn-adam-m/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/abraham-habib-emmanuel/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acevedo-jonathan/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acharya-deepa/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/acuner-melis/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/adams-kevin/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/adams-thomas/ | Not accepted (scope/title/template needs review): https://www.quinnemanuel.com/attorneys/adams-william-b/",
+      "count": 8
+    },
+    {
+      "id": 19,
+      "firm_id": "kirkland",
+      "started_at": "2026-11-21T14:13:56+00:00",
+      "finished_at": "2026-11-21T14:14:10+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 70. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 18,
+      "firm_id": "cravath",
+      "started_at": "2026-11-21T12:41:13+00:00",
+      "finished_at": "2026-11-21T12:41:21+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 4 known candidates; bounded to 4. robots.txt checked. Global coverage unverified. Directory: Path disallowed by robots.txt",
+      "count": 4
+    },
+    {
+      "id": 17,
+      "firm_id": "sullivan",
+      "started_at": "2026-11-21T12:39:48+00:00",
+      "finished_at": "2026-11-21T12:39:57+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 4 known candidates; bounded to 4. robots.txt checked. Global coverage unverified. ",
+      "count": 4
+    },
+    {
+      "id": 16,
+      "firm_id": "cravath",
+      "started_at": "2026-11-21T12:39:46+00:00",
+      "finished_at": "2026-11-21T12:39:47+00:00",
+      "status": "blocked",
+      "message": "Path disallowed by robots.txt",
+      "count": 0
+    },
+    {
+      "id": 15,
+      "firm_id": "weil",
+      "started_at": "2026-11-21T12:33:19+00:00",
+      "finished_at": "2026-11-21T12:33:25+00:00",
+      "status": "partial",
+      "message": "2 accepted / 2 profiles fetched; 5 known candidates; bounded to 2. robots.txt checked. Global coverage unverified. ",
+      "count": 2
+    },
+    {
+      "id": 14,
+      "firm_id": "king",
+      "started_at": "2026-11-21T12:33:03+00:00",
+      "finished_at": "2026-11-21T12:33:19+00:00",
+      "status": "partial",
+      "message": "8 accepted / 8 profiles fetched; 12 known candidates; bounded to 8. robots.txt checked. Global coverage unverified. ",
+      "count": 8
+    },
+    {
+      "id": 13,
+      "firm_id": "skadden",
+      "started_at": "2026-11-21T12:32:50+00:00",
+      "finished_at": "2026-11-21T12:33:03+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 7. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 12,
+      "firm_id": "sullivan",
+      "started_at": "2026-11-21T12:32:41+00:00",
+      "finished_at": "2026-11-21T12:32:50+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 4 known candidates; bounded to 4. robots.txt checked. Global coverage unverified. Directory: HTTP 500 for https://www.sullcrom.com/professionals; no retry or access bypass",
+      "count": 4
+    },
+    {
+      "id": 11,
+      "firm_id": "milbank",
+      "started_at": "2026-11-21T12:32:29+00:00",
+      "finished_at": "2026-11-21T12:32:41+00:00",
+      "status": "partial",
+      "message": "6 accepted / 6 profiles fetched; 31 known candidates; bounded to 6. robots.txt checked. Global coverage unverified. ",
+      "count": 6
+    },
+    {
+      "id": 10,
+      "firm_id": "cravath",
+      "started_at": "2026-11-21T12:32:19+00:00",
+      "finished_at": "2026-11-21T12:32:29+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 4 known candidates; bounded to 4. robots.txt checked. Global coverage unverified. Directory: HTTP 404 for https://www.cravath.com/people; no retry or access bypass",
+      "count": 4
+    },
+    {
+      "id": 9,
+      "firm_id": "latham",
+      "started_at": "2026-11-21T12:32:02+00:00",
+      "finished_at": "2026-11-21T12:32:19+00:00",
+      "status": "partial",
+      "message": "4 accepted / 4 profiles fetched; 4 known candidates; bounded to 4. robots.txt checked. Global coverage unverified. ",
+      "count": 4
+    },
+    {
+      "id": 8,
+      "firm_id": "paulweiss",
+      "started_at": "2026-11-21T12:31:54+00:00",
+      "finished_at": "2026-11-21T12:32:02+00:00",
+      "status": "partial",
+      "message": "3 accepted / 3 profiles fetched; 3 known candidates; bounded to 3. robots.txt checked. Global coverage unverified. ",
+      "count": 3
+    },
+    {
+      "id": 7,
+      "firm_id": "simpson",
+      "started_at": "2026-11-21T12:31:41+00:00",
+      "finished_at": "2026-11-21T12:31:54+00:00",
+      "status": "partial",
+      "message": "6 accepted / 6 profiles fetched; 19 known candidates; bounded to 6. robots.txt checked. Global coverage unverified. ",
+      "count": 6
+    },
+    {
+      "id": 6,
+      "firm_id": "quinn",
+      "started_at": "2026-11-21T12:31:31+00:00",
+      "finished_at": "2026-11-21T12:31:41+00:00",
+      "status": "partial",
+      "message": "3 accepted / 3 profiles fetched; 53 known candidates; bounded to 3. robots.txt HTTP 404: no policy published. Global coverage unverified. ",
+      "count": 3
+    },
+    {
+      "id": 5,
+      "firm_id": "kirkland",
+      "started_at": "2026-11-21T12:31:18+00:00",
+      "finished_at": "2026-11-21T12:31:31+00:00",
+      "status": "partial",
+      "message": "7 accepted / 7 profiles fetched; 7 known candidates; bounded to 7. robots.txt checked. Global coverage unverified. ",
+      "count": 7
+    },
+    {
+      "id": 4,
+      "firm_id": "paulhastings",
+      "started_at": "2026-11-21T12:01:28+00:00",
+      "finished_at": "2026-11-21T12:01:29+00:00",
+      "status": "blocked",
+      "message": "robots.txt HTTP 429; stopped without fetching profiles",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "firm_id": "gibson",
+      "started_at": "2026-11-21T12:00:39+00:00",
+      "finished_at": "2026-11-21T12:00:40+00:00",
+      "status": "blocked",
+      "message": "robots.txt HTTP 403; stopped without fetching profiles",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "firm_id": "davispolk",
+      "started_at": "2026-11-21T12:00:13+00:00",
+      "finished_at": "2026-11-21T12:00:14+00:00",
+      "status": "blocked",
+      "message": "robots.txt HTTP 403; stopped without fetching profiles",
+      "count": 0
+    },
+    {
+      "id": 1,
+      "firm_id": "wachtell",
+      "started_at": "2026-11-21T11:59:55+00:00",
+      "finished_at": "2026-11-21T11:59:57+00:00",
+      "status": "blocked",
+      "message": "HTTP 403 for https://www.wlrk.com/attorneys/; no retry or access bypass",
+      "count": 0
+    }
+  ]
+}

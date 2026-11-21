@@ -1,0 +1,58 @@
+name: Weekly public-source refresh
+on:
+  schedule:
+    - cron: '23 6 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: pinpoint-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      REFRESH_BRANCH: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.lock
+      - run: python -m pip install -r requirements.lock
+      - name: Restore last successful observation state
+        shell: bash
+        run: |
+          previous=$(gh run list --workflow refresh.yml --branch "$REFRESH_BRANCH" --status success --limit 1 --json databaseId --jq '.[0].databaseId // empty')
+          if [ -n "$previous" ]; then
+            if gh run download "$previous" --name pinpoint-observations --dir restored; then
+              cp restored/seed.json restored/history.json restored/coverage.json data/
+              echo "Restored observations from run $previous." >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "::warning::Previous artifact unavailable; comparing against the committed baseline."
+              echo "Previous artifact unavailable; comparing against committed baseline." >> "$GITHUB_STEP_SUMMARY"
+            fi
+          else
+            echo "First run: comparing against the committed baseline." >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - run: python -m pytest -q
+      - name: Refresh allowed public pages
+        run: python -m pinpoint.cli refresh --max-profiles 100 --export
+      - run: python -m pinpoint.cli validate
+      - name: Record actual coverage
+        run: python -m pinpoint.cli coverage >> "$GITHUB_STEP_SUMMARY"
+      - name: Preserve baseline and history for next run
+        uses: actions/upload-artifact@v6
+        with:
+          name: pinpoint-observations
+          path: |
+            data/seed.json
+            data/history.json
+            data/coverage.json
+          retention-days: 90
+          if-no-files-found: error

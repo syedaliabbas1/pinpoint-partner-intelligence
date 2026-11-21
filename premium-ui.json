@@ -1,0 +1,11 @@
+{
+  "profile": "product-admin",
+  "sourceRoots": ["pinpoint/templates", "pinpoint/static"],
+  "locale": "en-GB",
+  "canonicalMap": "UX-CONTRACT.md",
+  "requiredCapabilities": ["Select/Listbox", "Form", "Scrollbar"],
+  "ownership": {"Select/Listbox": "native"},
+  "requiredCommands": ["unit"],
+  "commands": {"unit": "python -m pytest -q"},
+  "evidence": {"failurePaths": "tests/test_web.py"}
+}
