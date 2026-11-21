@@ -2,7 +2,7 @@
 
 Measured agent-session start: **21 November 2026, 11:47:58 UTC** (the goal creation timestamp).
 
-Measured final handoff checkpoint: **21 November 2026, 14:02:22 UTC**. Elapsed wall-clock time: **2h 14m 24s** (8064 seconds), including tool waits and a prolonged execution-service timeout. This is below the approximate six-hour limit.
+Measured initial handoff checkpoint: **21 November 2026, 14:02:22 UTC**. Elapsed wall-clock time: **2h 14m 24s** (8064 seconds), including tool waits and a prolonged execution-service timeout. This is below the approximate six-hour limit.
 
 This is measured agent-session wall time, including reading, implementation, public-source requests, dependency installation, tests, review and tool waits. It is not a fabricated estimate of active human engineering time. No human effort before or after this session is known. The candidate must add any preparation, earlier roadmap work, personal review, publication or submission time honestly before supplying their total to the assessor.
 

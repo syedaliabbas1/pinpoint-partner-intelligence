@@ -64,7 +64,7 @@ Fresh-source verification found that the configured pytest temporary directory a
 - **Full browser QA:** initial browser access was unavailable. Finalization obtained limited native Chrome evidence, described below; keyboard/select interaction, print preview, mobile-device testing and accessibility certification remain unverified. Shared-window user activity was respected.
 - **GitHub Actions:** the initial build did not execute cloud workflows. Finalization published the private source, and Linux CI succeeded on Python 3.11 and 3.12. The manual refresh run and its artifact are recorded below after completion.
 - **Complete field or roster accuracy:** no exhaustive human-labelled evaluation set, total practice denominator, all-office crawl or independent manual confirmation of every record was performed. `validate` checks metadata and allowed source paths, not current remote truth.
-- **Production operation:** no external hosting, authentication, live alert delivery, vendor permission programme or scheduled remote job has been activated.
+- **Production operation:** no hosted application, authentication, live alert delivery or vendor permission programme has been activated. The GitHub schedule is enabled and its manual execution succeeded; a future scheduled trigger has not yet been observed.
 
 This is a verified local MVP with documented coverage limits, not a claim of full assessment data completeness.
 
@@ -96,3 +96,7 @@ The manual [cloud refresh](https://github.com/syedaliabbas1/pinpoint-partner-int
 Extractor version 3 adds six reproducing scope regressions. Source excerpts/actual retrieval metadata support the 26 cloud additions; their raw HTML snapshots were not retained in the downloaded artifact, so no local byte-for-byte snapshot claim is made for those 26. Existing 142 snapshots matched their hashes.
 
 The final Windows suite passed **80 tests**, with 1 privileged-symlink test skipped and 1 upstream deprecation warning. Ruff check/format, compile and seed validation passed. The actual server smoke checked all 168 profile pages and directory/coverage/changes/API/static/CSV/error states. Cloud CI for the final code is checked separately after push; the previous 75-test Linux result above is historical. Full browser keyboard/print/mobile checks remain unverified.
+
+## Final pushed commit verification
+
+[Tests run 44939159406](https://github.com/syedaliabbas1/pinpoint-partner-intelligence/actions/runs/44939159406) verified commit `e2ddb56a05a556b2e6ebe11f3b6406695d81eed9` on Linux/Python 3.11 and 3.12: **81 passed on each**, with one upstream warning. The privileged symlink test ran successfully on Linux; Windows reported 80 passed / 1 skip. Local HTTP verification covered 168 detail routes. The source ZIP was rebuilt and its 50-file SHA-256 manifest verified.
