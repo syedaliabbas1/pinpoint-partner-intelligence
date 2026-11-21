@@ -6,3 +6,5 @@ addopts = "-ra --basetemp=.pytest-tmp"
 target-version = "py311"
 line-length = 100
 
+[tool.vercel]
+entrypoint = "pinpoint.web:app"
